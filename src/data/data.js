@@ -1,6 +1,20 @@
 const data = [
   {
     id: Math.random(),
+    title: "sundream",
+    category: "advanced",
+    img: "../assets/images/sundream.png",
+    url: "https://sundream.vercel.app/",
+  },
+  {
+    id: Math.random(),
+    title: "sunmelody",
+    category: "advanced",
+    img: "../assets/images/sunmelody.png",
+    url: "https://sunmelody.vercel.app/",
+  },
+  {
+    id: Math.random(),
     title: "sunflix",
     category: "advanced",
     img: "../assets/images/sunflix.png",
