@@ -31,7 +31,7 @@ const data = [
    id: Math.random(),
     title: "sun film",
     category: "advanced",
-    img: "../assets/images/16-sun-film.png",
+    img: "../assets/images/sunfilm2.png",
     url: "https://sunfilm.netlify.app",
   },
   {
